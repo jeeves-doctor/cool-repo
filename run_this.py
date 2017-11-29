@@ -1,2 +1,2 @@
-print "hi"
-print "there"
+print("hi")
+print("there")
